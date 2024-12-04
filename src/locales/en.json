@@ -1,0 +1,587 @@
+{
+  "HomePage": {
+    "title": "Hello world!"
+  },
+  "HeroLanding": {
+    "introducing": "Introducing Template",
+    "kickoff": "Your First Overseas SaaS Template: ",
+    "saasStarter": "FFlow Next",
+    "description": "Build your Next Overseas SaaS project using Next.js 14, Next Intl, Drizzle ORM, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe.",
+    "goPricing": "Go Pricing",
+    "starOn": "Star on",
+    "github": "GitHub",
+    "goIFB": "My Blog"
+  },
+  "layout": {
+    "english": "English",
+    "chinese": "Chinese"
+  },
+  "BlogPage": {
+    "title": "Blog - FFlow Next",
+    "description": "Latest news and updates from FFlow Next.",
+    "all": "All",
+    "categories": "Categories",
+    "guides": "Guides",
+    "news": {
+      "title": "News",
+      "description": "Updates and announcements from FFlow Next."
+    },
+    "education": {
+      "title": "Education",
+      "description": "Educational content about SaaS management."
+    },
+    "authors": {
+      "noone": {
+        "name": "noone"
+      },
+      "shadcn": {
+        "name": "shadcn"
+      }
+    }
+  },
+  "PricingPage": {
+    "seriously": "Seriously?",
+    "youare": "You are an",
+    "backto": "Back to",
+    "dashboard": "Dashboard",
+    "starter": {
+      "title": "Starter",
+      "description": "For Beginners",
+      "benefit1": "Up to 100 monthly posts",
+      "benefit2": "Basic analytics and reporting",
+      "benefit3": "Access to standard templates",
+      "limitation1": "No priority access to new features.",
+      "limitation2": "Limited customer support",
+      "limitation3": "No custom branding",
+      "limitation4": "Limited access to business resources."
+    },
+    "pro": {
+      "title": "Pro",
+      "description": "Unlock Advanced Features",
+      "benefit1": "Up to 500 monthly posts",
+      "benefit2": "Advanced analytics and reporting",
+      "benefit3": "Access to business templates",
+      "benefit4": "Priority customer support",
+      "benefit5": "Exclusive webinars and training.",
+      "limitation1": "No custom branding",
+      "limitation2": "Limited access to business resources."
+    },
+    "business": {
+      "title": "Business",
+      "description": "For Power Users",
+      "benefit1": "Unlimited posts",
+      "benefit2": "Real-time analytics and reporting",
+      "benefit3": "Access to all templates, including custom branding",
+      "benefit4": "24/7 business customer support",
+      "benefit5": "Personalized onboarding and account management."
+    },
+    "features": {
+      "analytics": "Access to Analytics",
+      "branding": "Custom Branding",
+      "support": "Priority Support",
+      "reporting": "Advanced Reporting",
+      "manager": "Dedicated Manager",
+      "apiAccess": "API Access",
+      "webinars": "Monthly Webinars",
+      "integrations": "Custom Integrations",
+      "roles": "Roles and Permissions",
+      "onboarding": "Onboarding Assistance",
+      "custom": "Custom",
+      "unlimited": "Unlimited",
+      "support247": "24/7 Support",
+      "full": "Full",
+      "available": "Available",
+      "advanced": "Advanced",
+      "fullService": "Full Service"
+    },
+    "tooltips": {
+      "analytics": "All plans include basic analytics for tracking performance.",
+      "branding": "Custom branding is available from the Pro plan onwards.",
+      "reporting": "Advanced reporting is available in Business and Enterprise plans.",
+      "manager": "Enterprise plan includes a dedicated account manager.",
+      "webinars": "Pro and higher plans include access to monthly webinars.",
+      "integrations": "Custom integrations are available in Business and Enterprise plans.",
+      "roles": "User roles and permissions management improves with higher plans.",
+      "onboarding": "Higher plans include more comprehensive onboarding assistance."
+    },
+    "year": "will be charged when annual",
+    "month": "when charged monthly",
+    "goToDashboard": "Go to dashboard",
+    "startAtFullSpeed": "Start at full speed !",
+    "pricing": "Pricing",
+    "forContact": "for contact our support team.",
+    "testSubscriptions": "You can test the subscriptions and won&apos;t be charged.",
+    "email": "Email",
+    "plans": "Plans",
+    "compareOurPlans": "Compare Our Plans",
+    "findThePerfectPlan": "Find the perfect plan tailored for your business needs!",
+    "planTable": {
+      "starter": "Starter",
+      "pro": "Pro",
+      "business": "Business",
+      "enterprise": "Enterprise"
+    },
+    "faq": {
+      "label": "FAQ",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Explore our comprehensive FAQ to find quick answers to common inquiries. If you need further assistance, don't hesitate to contact us for personalized help."
+    },
+    "faqItems": {
+      "item1": {
+        "question": "What is the cost of the free plan?",
+        "answer": "Our free plan is completely free, with no monthly or annual charges. It's a great way to get started and explore our basic features."
+      },
+      "item2": {
+        "question": "How much does the Basic Monthly plan cost?",
+        "answer": "The Basic Monthly plan is priced at $15 per month. It provides access to our core features and is billed on a monthly basis."
+      },
+      "item3": {
+        "question": "What is the price of the Pro Monthly plan?",
+        "answer": "The Pro Monthly plan is available for $25 per month. It offers advanced features and is billed on a monthly basis for added flexibility."
+      },
+      "item4": {
+        "question": "Do you offer any annual subscription plans?",
+        "answer": "Yes, we offer annual subscription plans for even more savings. The Basic Annual plan is $144 per year, and the Pro Annual plan is $300 per year."
+      },
+      "item5": {
+        "question": "Is there a trial period for the paid plans?",
+        "answer": "We offer a 14-day free trial for both the Pro Monthly and Pro Annual plans. It's a great way to experience all the features before committing to a paid subscription."
+      }
+    }
+  },
+  "QuotaPage": {
+    "resourceTypes": {
+      "api_calls": "API Calls",
+      "storage": "Storage",
+      "exports": "Exports",
+      "team_members": "Team Members"
+    },
+    "resourceUsageQuota": "Resource Usage Quota",
+    "monitorResourceUsage": "Monitor your resource usage and remaining quota for different resources.",
+    "totalQuota": "Total Quota",
+    "usedQuota": "Used Quota",
+    "remainingQuota": "Remaining Quota",
+    "usageProgress": "Usage Progress",
+    "percentUsed": "Used {percent}%",
+    "fetchError": "Failed to fetch quota data",
+    "noQuotaData": "No quota data available",
+    "noQuotaDataDescription": "Please check back later.",
+    "refreshQuotaData": "Refresh Quota Data"
+  },
+  "APIKeysPage": {
+    "createAPIKey": "Create API Key",
+    "deleteAPIKey": "Delete API Key",
+    "deleteAPIKeyConfirm": "Are you sure you want to delete this API key?",
+    "deleteAPIKeySuccess": "API key deleted successfully",
+    "deleteAPIKeyError": "Failed to delete API key",
+    "deleteAPIKeyCancel": "Cancel",
+    "defaultKeyName": "New Key",
+    "heading": "API Keys",
+    "subheading": "Manage your API keys here.",
+    "noAPIKeys": "No API keys found",
+    "noAPIKeysDescription": "You can create a new API key by clicking the button below.",
+    "keyCopiedSuccess": "API key copied to clipboard",
+    "keyDeletedSuccess": "API key deleted successfully",
+    "keyDeletionError": "Failed to delete API key",
+    "apiKeyNamePlaceholder": "Enter API key name",
+    "name": "Name",
+    "create": "Create",
+    "apiKey": "API Key",
+    "created": "Created",
+    "actions": "Actions",
+    "copyFullAPIKey": "Copy full API key"
+  },
+  "Dashboard": {
+    "sidebar": {
+      "menu": "MENU",
+      "adminPanel": "Admin Panel",
+      "dashboard": "Dashboard",
+      "billing": "Billing",
+      "charts": "Charts",
+      "chatBot": "Chat Bot",
+      "apiKeys": "API Keys",
+      "quota": "Quota",
+      "orders": "Orders",
+      "userPosts": "User Posts",
+      "options": "OPTIONS",
+      "settings": "Settings",
+      "homepage": "Homepage",
+      "documentation": "Documentation",
+      "support": "Support"
+    },
+    "main": {
+      "heading": "Dashboard",
+      "currentRole": "Current Role: {role} — Change your role in settings.",
+      "loadingCurrentRole": "Current Role :",
+      "noContentTitle": "No content created",
+      "noContentDescription": "You don't have any content yet. Start creating content.",
+      "addContent": "Add Content"
+    }
+  },
+  "AdminPage": {
+    "heading": "Admin Panel",
+    "subheading": "Access only for users with ADMIN role.",
+    "infoCards": {
+      "subscriptions": "Subscriptions",
+      "subscriptionsDesc": "+180.1% from last month",
+      "revenue": "Revenue",
+      "revenueDesc": "+25.8% from last month",
+      "transactions": "Transactions",
+      "transactionsDesc": "+14.2% from last month",
+      "activeUsers": "Active Users",
+      "activeUsersDesc": "+5.7% from last month"
+    },
+    "transactionsList": {
+      "title": "Transactions",
+      "description": "Recent transactions from your store.",
+      "viewAll": "View All",
+      "customer": "Customer",
+      "type": "Type",
+      "status": "Status",
+      "date": "Date",
+      "amount": "Amount",
+      "sale": "Sale",
+      "refund": "Refund",
+      "subscription": "Subscription",
+      "approved": "Approved",
+      "declined": "Declined"
+    },
+    "ordersPage": {
+      "heading": "Orders",
+      "subheading": "Check and manage your latest orders.",
+      "emptyTitle": "No orders listed",
+      "emptyDescription": "You don't have any orders yet. Start ordering a product.",
+      "buyProducts": "Buy Products"
+    }
+  },
+  "Chat": {
+    "chatBot": "Chat Bot",
+    "chatWithAI": "Chat with our AI assistant.",
+    "initialQuestions1": "How can I get started with FFlow Next?",
+    "initialQuestions2": "What features does FFlow Next offer?",
+    "initialQuestions3": "Can I customize the UI components in FFlow Next?",
+    "initialQuestions4": "How does FFlow Next handle authentication?",
+    "welcomeMessage": "**Welcome to FFlow Next ChatBot**",
+    "inputPlaceholder": "Type your message...",
+    "sendButton": "Send"
+  },
+  "Charts": {
+    "heading": "Charts",
+    "subheading": "List of charts by shadcn-ui."
+  },
+  "UpgradeCard": {
+    "title": "Upgrade to Pro",
+    "description": "Unlock all features and get unlimited access to our support team.",
+    "upgradeButton": "Upgrade"
+  },
+  "Powered": {
+    "poweredby": "Powered by"
+  },
+  "Testimonials": {
+    "label": "Testimonials",
+    "title": "What our clients are sharing.",
+    "subtitle": "Discover the glowing feedback from our delighted customers worldwide.",
+    "reviews": {
+      "1": "FFlow Next has revolutionized our development process. It's incredibly fast and efficient!",
+      "2": "The integration of Next.js 14 and other cutting-edge technologies makes FFlow Next a game-changer.",
+      "3": "Our team's productivity skyrocketed after adopting FFlow Next. Highly recommended!",
+      "4": "I'm impressed by the quality of code and clear documentation of fflow-next. Kudos to the team!",
+      "5": "fflow-next provided me with the tools I needed to efficiently manage user data. Thank you so much!",
+      "6": "fflow-next has been an invaluable asset in my role as a marketing manager. With its seamless integration with Stripe, I've been able to launch targeted marketing campaigns with built-in payment functionality, allowing us to monetize our products and services more effectively.",
+      "7": "Thanks to fflow-next, I've been able to create modern and attractive user interfaces in record time. The starter kit provides a solid foundation for building sleek and intuitive designs, allowing me to focus more on the creative aspects of my work."
+    }
+  },
+  "PreviewLanding": {
+    "imageAlt": "Preview landing"
+  },
+  "BentoGrid": {
+    "customizable": "Customizable",
+    "secureByDefault": "Secure by default",
+    "secureByDefaultDescription": "Provident fugit and vero voluptate. magnam magni doloribus dolores voluptates a sapiente nisi.",
+    "fasterThanLight": "Faster than light",
+    "fasterThanLightDescription": "Provident fugit vero voluptate. magnam magni doloribus dolores voluptates inventore nisi.",
+    "fasterThanLightAltDescription": "Provident fugit vero voluptate. Voluptates a sapiente inventore nisi.",
+    "keepLovedOnesSafe": "Keep your loved ones safe",
+    "keepLovedOnesSafeDescription": "Voluptate. magnam magni doloribus dolores voluptates a sapiente."
+  },
+  "Features": {
+    "label": "Features",
+    "title": "Discover all features.",
+    "subtitle": "These features are designed to enhance your productivity and user experience.",
+    "visitSite": "Visit Site",
+    "feature1": {
+      "title": "Feature 1",
+      "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "link": "/",
+      "icon": "nextjs"
+    },
+    "feature2": {
+      "title": "Feature 2",
+      "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "link": "/",
+      "icon": "google"
+    },
+    "feature3": {
+      "title": "Feature 3",
+      "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "link": "/",
+      "icon": "gitHub"
+    },
+    "feature4": {
+      "title": "Feature 4",
+      "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "link": "/",
+      "icon": "laptop"
+    },
+    "feature5": {
+      "title": "Feature 5",
+      "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "link": "/",
+      "icon": "user"
+    },
+    "feature6": {
+      "title": "Feature 6",
+      "description": "Amet praesentium deserunt ex commodi tempore fuga voluptatem. Sit, sapiente.",
+      "link": "/",
+      "icon": "copy"
+    }
+  },
+  "InfoLanding": {
+    "Empower your projects": {
+      "title": "Empower your projects",
+      "description": "Unlock the full potential of your projects with our open-source SaaS platform. Collaborate seamlessly, innovate effortlessly, and scale limitlessly.",
+      "list": {
+        "Collaborative": {
+          "title": "Collaborative",
+          "description": "Work together with your team members in real-time."
+        },
+        "Innovative": {
+          "title": "Innovative",
+          "description": "Stay ahead of the curve with access constant updates."
+        },
+        "Scalable": {
+          "title": "Scalable",
+          "description": "Our platform offers the scalability needed to adapt to your needs."
+        }
+      }
+    },
+    "Seamless Integration": {
+      "title": "Seamless Integration",
+      "description": "Integrate our open-source SaaS seamlessly into your existing workflows. Effortlessly connect with your favorite tools and services for a streamlined experience.",
+      "list": {
+        "Flexible": {
+          "title": "Flexible",
+          "description": "Customize your integrations to fit your unique requirements."
+        },
+        "Efficient": {
+          "title": "Efficient",
+          "description": "Streamline your processes and reducing manual effort."
+        },
+        "Reliable": {
+          "title": "Reliable",
+          "description": "Rely on our robust infrastructure and comprehensive documentation."
+        }
+      }
+    }
+  },
+  "Marketing": {
+    "nav": {
+      "pricing": "Pricing",
+      "blog": "Blog",
+      "documentation": "Documentation"
+    },
+    "siteName": "FFlow Next",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "signUp": "Sign Up",
+    "admin": "Admin"
+  },
+  "Settings": {
+    "heading": "Settings",
+    "subheading": "Manage account and website settings."
+  },
+  "UserNameForm": {
+    "errorTitle": "Something went wrong",
+    "errorDescription": "Your name could not be updated. Please try again later.",
+    "successDescription": "Your name has been updated.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter your name",
+    "nameDescription": "This is your public display name. It can be your real name or a pseudonym.",
+    "saveChanges": "Save changes"
+  },
+  "UserRoleForm": {
+    "title": "Your Role",
+    "description": "Select the role you want to test the app with.",
+    "roleLabel": "Role",
+    "selectPlaceholder": "Select a role",
+    "saveChanges": "Save Changes",
+    "errorTitle": "Something went wrong",
+    "errorDescription": "Your role was not updated. Please try again.",
+    "successDescription": "Your role has been updated.",
+    "removeInProduction": "Remove this field in real production"
+  },
+  "DeleteAccountSection": {
+    "title": "Delete Account",
+    "description": "This is a danger zone - Be careful !",
+    "areYouSure": "Are you sure ?",
+    "activeSubscription": "Active Subscription",
+    "deleteWarning": "Permanently delete your {siteName} account. This action cannot be undone, please proceed with caution.",
+    "deleteButton": "Delete Account"
+  },
+  "UserAccountNav": {
+    "admin": "Admin",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "logOut": "Log out"
+  },
+  "Footer": {
+    "sections": {
+      "Company": {
+        "title": "Company",
+        "items": {
+          "About": "About",
+          "Enterprise": "Enterprise",
+          "Terms": "Terms",
+          "Privacy": "Privacy"
+        }
+      },
+      "Product": {
+        "title": "Product",
+        "items": {
+          "Security": "Security",
+          "Customization": "Customization",
+          "Customers": "Customers",
+          "Changelog": "Changelog"
+        }
+      },
+      "Docs": {
+        "title": "Docs",
+        "items": {
+          "Introduction": "Introduction",
+          "Installation": "Installation",
+          "Components": "Components",
+          "Code Blocks": "Code Blocks"
+        }
+      }
+    },
+    "builtBy": "Built by",
+    "hostedOn": "Hosted on",
+    "illustrationsBy": "Illustrations by"
+  },
+  "DocsSearch": {
+    "searchPlaceholder": "Search documentation...",
+    "notImplementedTitle": "Not implemented",
+    "notImplementedDescription": "We're still working on the search."
+  },
+  "SearchCommand": {
+    "search": "Search",
+    "documentation": "documentation",
+    "inputPlaceholder": "Type a command or search...",
+    "noResults": "No results found.",
+    "sections": {
+      "MENU": "MENU",
+      "OPTIONS": "OPTIONS"
+    },
+    "items": {
+      "Admin Panel": "Admin Panel",
+      "Dashboard": "Dashboard",
+      "Billing": "Billing",
+      "Charts": "Charts",
+      "Chat Bot": "Chat Bot",
+      "API Keys": "API Keys",
+      "Quota": "Quota",
+      "Orders": "Orders",
+      "User Posts": "User Posts",
+      "Settings": "Settings",
+      "Homepage": "Homepage",
+      "Documentation": "Documentation",
+      "Support": "Support"
+    }
+  },
+  "ProjectSwitcher": {
+    "newProject": "New Project",
+    "noProjects": "You don't have any projects yet. Create a new one to get started.",
+    "name": "Name",
+    "description": "Description",
+    "enterProjectName": "Enter project name",
+    "enterProjectDescription": "Enter project description",
+    "create": "Create",
+    "createProjectError": "Failed to create project"
+  },
+  "Docs": {
+    "pageHeader": {
+      "Docs": "Docs"
+    },
+    "mainNav": {
+      "documentation": "Documentation",
+      "guides": "Guides"
+    },
+    "sidebarNav": {
+      "gettingStarted": "Getting Started",
+      "introduction": "Introduction",
+      "installation": "Installation",
+      "configuration": "Configuration",
+      "authentification": "Authentification",
+      "blog": "Blog",
+      "components": "Components",
+      "configFiles": "Config files",
+      "database": "Database",
+      "email": "Email",
+      "layouts": "Layouts",
+      "markdownFiles": "Markdown files",
+      "subscriptions": "Subscriptions"
+    }
+  },
+  "Guides": {
+    "title": "Guides",
+    "description": "This section includes end-to-end guides for developing Next.js 13 apps.",
+    "view": "View",
+    "featured": "Featured",
+    "noGuides": "No guides published."
+  },
+  "SignIn": {
+    "signIn": "Sign In",
+    "description": "This is strictly for demo purposes - only your email and profile picture will be stored.",
+    "google": "Sign in with Google",
+    "github": "Sign in with GitHub"
+  },
+  "NewsletterForm": {
+    "label": "Subscribe to our newsletter",
+    "button": "Subscribe"
+  },
+  "CustomerPortalButton": {
+    "openCustomerPortal": "Open Customer Portal"
+  },
+  "BillingPage": {
+    "heading": "Billing",
+    "subheading": "Manage billing and your subscription plan.",
+    "subscriptionPlan": "Subscription Plan",
+    "choosePlan": "Choose a plan",
+    "willBeCanceledOn": "Your plan will be canceled on ",
+    "willRenewOn": "Your plan renews on ",
+    "youAreCurrentlyOnThe": "You are currently on the",
+    "plan": "plan."
+  },
+  "LoginPage": {
+    "back": "Back",
+    "welcomeBack": "Welcome back",
+    "enterEmail": "Enter your email to sign in to your account",
+    "noAccount": "Don't have an account? Sign Up"
+  },
+  "RegisterPage": {
+    "login": "Login",
+    "createAccount": "Create an account",
+    "enterEmailToCreateAccount": "Enter your email below to create your account",
+    "byClickingContinue": "By clicking continue, you agree to our",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "AuthLayout": {
+    "quote": "FFlow Next has revolutionized our development process. It's incredibly fast and efficient!",
+    "author": "John Doe, Software Engineer",
+    "orContinueWith": "Or continue with",
+    "signUpWithEmail": "Sign Up with Email",
+    "signInWithEmail": "Sign In with Email"
+  }
+}
